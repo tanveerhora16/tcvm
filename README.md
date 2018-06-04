@@ -22,7 +22,7 @@ should also have flexible reporting features.
  Exit TCVM
 
 ### Use Case
-![tcvm use case](/TCVM Use Case.png)
+![tcvm use case](https://github.com/tanveerhora16/tcvm/blob/master/TCVM%20Use%20Case.png)
 
 ### Running The Application
 1. Download the zip by clicking on Clone or Download  Download as Zip.
